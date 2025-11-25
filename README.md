@@ -12,7 +12,7 @@
 
 <!--- snake -->
 <div align="center">
-  <img width="1500" height="500" alt="image" src="https://github.com/user-attachments/assets/728b0f6f-e324-4278-8abd-1468df8dcdb9" /></a>
+  <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/e20da728-019d-43f1-929d-7dce19c6e0de" />
 </div>
 
 
